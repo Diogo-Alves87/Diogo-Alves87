@@ -82,7 +82,7 @@ Me chamo Diogo Alves, tenho 21 anos e sou natural de São Paulo. Concluí o ensi
   title="Power BI"
   width="65px"
   style="padding-right: 10px;"
-  src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png"
+  src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Emblema.png"
 />
 <br/>
 <br/>
